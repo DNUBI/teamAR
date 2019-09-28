@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hjgjyjg" size="23453.000000 30421.296875" />
+    <ImageTarget name="joungjoo" size="51315132.000000 71545136.000000" />
+    <ImageTarget name="un" size="51651.000000 72013.414062" />
+    <ImageTarget name="joung" size="53543.000000 74651.296875" />
+    <ImageTarget name="mounmoo" size="564564.000000 787132.500000" />
+    <ImageTarget name="kimkoo" size="543438.000000 757678.000000" />
+    <ImageTarget name="dsf" size="547.000000 709.523254" />
+    <ImageTarget name="dddddcccc" size="58678.000000 76078.523438" />
+    <ImageTarget name="bnhgh" size="1010.000000 1307.269531" />
+    <ImageTarget name="bbb" size="4525325.000000 5883620.500000" />
+  </Tracking>
+</QCARConfig>
